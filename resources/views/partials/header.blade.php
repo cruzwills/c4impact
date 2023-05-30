@@ -19,18 +19,22 @@
                                     <li class="current"><a href="{{ route('index')}}">Home</a>
 
                                     </li>
-                                    <li class="dropdown"><a href="{{ route('portfolio')}}">Portfolio</a>
+                                    <li class="dropdown"><a href="{{ route('portfolio')}}">Services</a>
                                         <ul>
-                                            <li><a href="service.html">Data Analysis</a></li>
-                                            <li><a href="service-2.html">Grant Writing</a></li>
+                                            <li><a href="service.html">Data Analytics</a></li>
+                                            <li><a href="service-2.html">Propasal Writing</a></li>
                                             <li><a href="service-2.html">Impact Assessment</a></li>
                                             <li><a href="service-2.html">Survey Design</a></li>
-                                            <li><a href="service-2.html">Third Party M & E</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="{{ route('news')}}">News and Impact</a>
+                                    <li class="dropdown"><a href="{{ route('resources')}}">Resources</a>
                                         <ul>
-                                            <li><a href="about.html">Element</a></li>
+                                            <li><a href="about.html">Pojects</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="{{ route('blog')}}">Blog</a>
+                                        <ul>
+                                            <li><a href="about.html">News and Impact</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="{{ route('about')}}">About Us</a>

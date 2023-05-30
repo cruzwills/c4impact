@@ -25,7 +25,7 @@
                 </div>
                 <div class="col-lg-8 col-md-12 col-sm-12 form-column">
                     <div class="form-inner">
-                        <h3>Let’s Conversation<br />with Detox</h3>
+                        <h3>Let’s Conversation<br />with CFIERD</h3>
                         <form method="post" action="http://azim.commonsupport.com/Detox/assets/inc/sendemail.php" id="contact-form" class="default-form">
                             <div class="row clearfix">
                                 <div class="col-lg-6 col-md-6 col-sm-12 form-group">

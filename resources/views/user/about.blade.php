@@ -37,7 +37,7 @@
                         <div class="content-box">
                             <div class="sec-title wow slideInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                                 <p>Our History</p>
-                                <h2>Detox Provides Realtime Data Solutions.</h2>
+                                <h2>CFIERD Provides Realtime Data Solutions.</h2>
                             </div>
                             <div class="text wow slideInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                                 <p>Dolor sit amet consectetur elit sed eiusmod tempor incidi dunt labore  dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex commodo consequat.duis aute irure dolor in reprehenderit.</p>
@@ -64,7 +64,7 @@
                         <div class="content-box">
                             <div class="sec-title wow slideInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                                 <p>Our Pillars</p>
-                                <h2>Detox Provides Realtime Data Solutions.</h2>
+                                <h2>CFIERD Provides Realtime Data Solutions.</h2>
                             </div>
                             <div class="text wow slideInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                                 <p>Dolor sit amet consectetur elit sed eiusmod tempor incidi dunt labore  dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex commodo consequat.duis aute irure dolor in reprehenderit.</p>
@@ -116,7 +116,7 @@
                                 <figure class="image-box"><img src="assets/images/resource/thumb-2.png" alt=""></figure>
                                 <p>Lorem ipsum dolor sit amet consectetur adipicing elit sed do usmod tempor incididunt.enim ad minim veniam quis nostrud exer citation laboris nisi aliquip commodo.</p>
                                 <div class="author-info">
-                                    <h4>Cruize Williams</h4>
+                                    <h4>Cruise Williams</h4>
                                     <span class="designation">Designer</span>
                                 </div>
                             </div>

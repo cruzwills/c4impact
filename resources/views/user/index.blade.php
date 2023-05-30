@@ -88,7 +88,7 @@
                         <div class="service-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="flaticon-machine-learning"></i></div>
-                                <h3><a href="service.html">Machine Learning</a></h3>
+                                <h3><a href="service.html">Data Analysis</a></h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore.</p>
                             </div>
                         </div>
@@ -97,7 +97,7 @@
                         <div class="service-block-one wow fadeInRight" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="flaticon-data-analytics"></i></div>
-                                <h3><a href="service.html">Data Analytics</a></h3>
+                                <h3><a href="service.html">Grant Writing</a></h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore.</p>
                             </div>
                         </div>
@@ -106,7 +106,7 @@
                         <div class="service-block-one wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="flaticon-laptop"></i></div>
-                                <h3><a href="service.html">Computer Vision</a></h3>
+                                <h3><a href="service.html">Impact Assessments</a></h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore.</p>
                             </div>
                         </div>
@@ -115,7 +115,7 @@
                         <div class="service-block-one wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="flaticon-data-integration"></i></div>
-                                <h3><a href="service.html">Internet Of Things</a></h3>
+                                <h3><a href="service.html">Survey Design</a></h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore.</p>
                             </div>
                         </div>
@@ -124,7 +124,7 @@
                         <div class="service-block-one wow fadeInRight" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="flaticon-robot"></i></div>
-                                <h3><a href="service.html">Artificial Intelligence</a></h3>
+                                <h3><a href="service.html">Third Party M&E</a></h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore.</p>
                             </div>
                         </div>
