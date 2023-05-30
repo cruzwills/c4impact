@@ -86,10 +86,12 @@
     <section class="testimonial-style-two text-center" id="c-team">
         <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-17.png);"></div>
         <div class="thumb-box wow zoomIn animated">
-            <figure class="thumb thumb-1"><img src="assets/images/resource/thumb-1.png" alt=""></figure>
-            <figure class="thumb thumb-2"><img src="assets/images/resource/thumb-2.png" alt=""></figure>
-            <figure class="thumb thumb-3"><img src="assets/images/resource/thumb-3.png" alt=""></figure>
-            <figure class="thumb thumb-4"><img src="assets/images/resource/thumb-4.png" alt=""></figure>
+            <figure class="thumb thumb-1"><img src="{{asset('assets/images/resource/Shylock_tn.jpg')}}" alt=""></figure>
+            <figure class="thumb thumb-2"><img src="{{asset('assets/images/resource/Bornwell_tn.jpg')}}" alt=""></figure>
+            <figure class="thumb thumb-3"><img src="{{asset('assets/images/resource/EFG_2_tn.jpg')}}" alt=""></figure>
+            <figure class="thumb thumb-4"><img src="{{asset('assets/images/resource/Profile_tn.jpg')}}" alt=""></figure>
+            <figure class="thumb thumb-4"><img src="{{asset('assets/images/resource/img.jpg')}}" alt=""></figure>
+
         </div>
         <div class="auto-container">
             <div class="upper-box">
@@ -103,7 +105,7 @@
                     <div class="testimonial-carousel-2 owl-carousel owl-theme owl-nav-none">
                         <div class="testimonial-content">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-1.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/resource/Shylock_tn.jpg" alt=""></figure>
                                 <p>Lorem ipsum dolor sit amet consectetur adipicing elit sed do usmod tempor incididunt.enim ad minim veniam quis nostrud exer citation laboris nisi aliquip commodo.</p>
                                 <div class="author-info">
                                     <h4>Vincent Marufu</h4>
@@ -113,17 +115,17 @@
                         </div>
                         <div class="testimonial-content">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-2.png" alt=""></figure>
+                                <figure class="image-box"><img src="{{asset('assets/images/resource/Bornwell_tn.jpg')}}" alt=""></figure>
                                 <p>Lorem ipsum dolor sit amet consectetur adipicing elit sed do usmod tempor incididunt.enim ad minim veniam quis nostrud exer citation laboris nisi aliquip commodo.</p>
                                 <div class="author-info">
-                                    <h4>Cruise Williams</h4>
+                                    <h4>Dr. Shylock Muyengwa</h4>
                                     <span class="designation">Designer</span>
                                 </div>
                             </div>
                         </div>
                         <div class="testimonial-content">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-3.png" alt=""></figure>
+                                <figure class="image-box"><img src="{{asset('assets/images/resource/EFG_2_tn.jpg')}}" alt=""></figure>
                                 <p>Lorem ipsum dolor sit amet consectetur adipicing elit sed do usmod tempor incididunt.enim ad minim veniam quis nostrud exer citation laboris nisi aliquip commodo.</p>
                                 <div class="author-info">
                                     <h4>Tatenda Muchapararwa</h4>
@@ -133,7 +135,7 @@
                         </div>
                         <div class="testimonial-content">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="assets/images/resource/thumb-4.png" alt=""></figure>
+                                <figure class="image-box"><img src="{{asset('assets/images/resource/Profile_tn.jpg')}}" alt=""></figure>
                                 <p>Lorem ipsum dolor sit amet consectetur adipicing elit sed do usmod tempor incididunt.enim ad minim veniam quis nostrud exer citation laboris nisi aliquip commodo.</p>
                                 <div class="author-info">
                                     <h4>Denver Zuze</h4>

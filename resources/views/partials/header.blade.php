@@ -29,7 +29,9 @@
                                     </li>
                                     <li class="dropdown"><a href="{{ route('resources')}}">Resources</a>
                                         <ul>
-                                            <li><a href="about.html">Pojects</a></li>
+                                            <li><a href="projects.html">Pojects</a></li>
+                                            <li><a href="partnerships.html">Partnerships</a></li>
+
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="{{ route('blog')}}">Blog</a>
@@ -45,7 +47,7 @@
                                             <li><a href="#c-team">Our Team</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="index-2.html">Opportunities</a>
+                                    <li class="dropdown"><a href="index-2.html">Careers</a>
                                         <ul>
                                             <li><a href="blog-grid.html">Blog Grid</a></li>
                                             <li><a href="blog-masonry.html">Blog Masonry</a></li>
